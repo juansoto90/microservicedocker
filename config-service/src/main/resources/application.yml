@@ -8,5 +8,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/juansoto90/microservicebootcamp.git
+          uri: https://github.com/juansoto90/microservicedocker.git
           searchPaths: config-data
